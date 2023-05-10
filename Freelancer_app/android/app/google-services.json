@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "673399535159",
+    "project_id": "flutter-hanyman",
+    "storage_bucket": "flutter-hanyman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673399535159:android:41a5312ed1a9db7f00b1b2",
+        "android_client_info": {
+          "package_name": "io.initappz.handyman.freelancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673399535159-utfete7mla1mpschhluvfej9a7n3h3ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJhFBTNvBy4vEbOpsKPMbdfeaS0bvAks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673399535159-utfete7mla1mpschhluvfej9a7n3h3ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673399535159-iield253gafsdogmlgldrodoj67eubs5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.handyman.freelancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673399535159:android:ce123264e009087100b1b2",
+        "android_client_info": {
+          "package_name": "io.initappz.handyman.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673399535159-utfete7mla1mpschhluvfej9a7n3h3ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJhFBTNvBy4vEbOpsKPMbdfeaS0bvAks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673399535159-utfete7mla1mpschhluvfej9a7n3h3ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673399535159-iield253gafsdogmlgldrodoj67eubs5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.handyman.freelancer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

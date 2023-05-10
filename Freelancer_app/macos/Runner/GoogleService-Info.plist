@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>673399535159-i62li5foplr6u5lflc48m5l7v84avq1a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.673399535159-i62li5foplr6u5lflc48m5l7v84avq1a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjiK3MNC6CZ-TVwPDX5wgT5vxOW9VOO30</string>
+	<key>GCM_SENDER_ID</key>
+	<string>673399535159</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.handymanFreelancer</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-hanyman</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-hanyman.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:673399535159:ios:b3fb599d35a5101500b1b2</string>
+</dict>
+</plist>
